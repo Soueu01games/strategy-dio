@@ -1,4 +1,3 @@
-package strategy;
 public class Robo {
     private Comportamento comportamento;
 
